@@ -1,4 +1,4 @@
-# linux-file-permissions
+# Linux File Permissions
 Inspecting and modifying the permissions of different directories and files with Linux.
 
 ## Skills Demonstrated
