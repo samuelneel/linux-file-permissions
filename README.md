@@ -2,7 +2,7 @@
 Inspecting and modifying the permissions of different directories and files with Linux.
 
 ## Skills Demonstrated
-- Navigaating the Linux file system
+- Navigating the Linux file system
 - Reading permission strings (owner / group / others)
 - Modifying permissions with `chmod`
 - Applying least-privilege access across user types
